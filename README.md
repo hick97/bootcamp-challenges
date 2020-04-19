@@ -1,17 +1,17 @@
 # bootcamp-challenges
 
-Challenges created in the new format of Rocketset's Bootcamp
+Set of challenge created in the new format of Rocketseat's Bootcamp.
 
 ## About program:
 
-### <a href="https://rocketseat.com.br/gostack">Check the official website.</a>
-
 The Rocketseat's Bootcamp is a immersive training in the most modern technologies of web and mobile development using javascript as a programming language!
+
+<a href="https://rocketseat.com.br/gostack">Check the official website!</a>
 
 ## Challenges:
 
-### Desafio 02: Conceitos do Node.js
+### Challenge 02: Node.js concepts
 
-### You can check more datails about this chellenge <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs">here</a>
+You can check more datails about this chellenge <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs">here</a>
 
 By: <a href="https://github.com/hick97">Henrique Augusto</a>
