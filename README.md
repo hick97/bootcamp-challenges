@@ -1,6 +1,6 @@
 # bootcamp-challenges
 
-Set of challenge created in the new format of Rocketseat's Bootcamp.
+Challenge set created in the new format of Rocketseat's Bootcamp.
 
 ## About program:
 
