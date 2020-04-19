@@ -12,7 +12,7 @@ The Rocketseat's Bootcamp is a immersive training in the most modern technologie
 
 ### Challenge 02: Node.js concepts
 
-You can check more datails about this challenge <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs">here</a>
-Challenge repository: <a href="https://github.com/hick97/nodejs-concepts">here</a>
+You can check more datails about this challenge <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs">here</a>.</br>
+Challenge repository: <a href="https://github.com/hick97/nodejs-concepts">here</a>.
 
 By: <a href="https://github.com/hick97">Henrique Augusto</a>
